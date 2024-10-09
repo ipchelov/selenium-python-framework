@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea
+
+venv/
+
+
+.pytest_cache
+.mypy_cache
+
+*.log
+allure_results/
